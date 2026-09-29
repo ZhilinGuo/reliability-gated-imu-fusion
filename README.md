@@ -1,6 +1,4 @@
-# Reliability-Gated IMU Fusion
-
-*Consumer Head and Foot IMUs for Lower-Body 3D Pose*
+# Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.35764-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2609.35764)
 
